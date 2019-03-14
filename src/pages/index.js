@@ -8,6 +8,6 @@ export default () => (
     <Header />
     <Link to="/contact/">Contact</Link>
     <p>What a world.</p>
-    <img src="https://source.unsplash.com/random/400x200" alt="" />
+    <img src="https://source.unsplash.com/random/400x400" alt="" />
   </div>
 )
